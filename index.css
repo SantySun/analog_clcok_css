@@ -81,7 +81,7 @@ body {
 .hours-pointer {
   border-top: 5px solid transparent;
   border-bottom: 5px solid transparent;
-  border-right: 220px solid #51A2DA;
+  border-right: 210px solid #51A2DA;
 }
 
 .seconds-rotate {
